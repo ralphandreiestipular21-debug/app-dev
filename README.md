@@ -45,3 +45,4 @@ Favorite season: Season 3
 - [x] Watched Season 1
 - [x] Watched Season 2
 - [ ] Rewatch the whole series
+Thanks for reading my README!
